@@ -1,5 +1,5 @@
-1martillo truper 5000 
-
+2martillo truper 5000 
+martillo Truper 500 
 
 
 
